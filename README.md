@@ -15,3 +15,9 @@
      NTraps (default = 1)
      pool.apriori (default = NULL)
      makePlot (default = TRUE)
+
+  Original documents presenting DARR are included in repo.
+  
+  Citation should continue to be 
+  Bjorkstedt, E. 2005. DARR, 2.0: updated software for estimating abundance from stratified mark-recapture data. 
+  NOAA Technical Memorandum NMFSSWFSC-368.
